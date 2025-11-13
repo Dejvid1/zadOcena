@@ -15,12 +15,3 @@ Welcome to zadanie1's documentation!
    rozdzial2
    rozdzial3
    rozdzial4
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
